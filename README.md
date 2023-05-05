@@ -10,6 +10,7 @@ This bot is unique in that it allows server owners to add as many plugins as the
 - Cost-effective: Unlike other bots, this bot doesn't require the developer to constantly update and maintain it, making it a cost-effective solution for server owners.
 
 ## Requirements
+> Work in progress
 
 - A nice Discord server
 - A server to host the bot on (or a computer that's always on) (or a cloud service see below)
@@ -29,4 +30,4 @@ Contributions are welcome! If you have an idea for a new plugin, feel free to cr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
