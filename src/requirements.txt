@@ -1,0 +1,12 @@
+pluginbase # for plugin and extension support
+psycopg2 # for postgresql
+rich # for pretty printing and logging
+pynacl # for discord bot voice support
+pyyaml # for config
+discord.py # for discord bot
+discord[voice] # for discord bot voice support
+supabase # for database
+diskcache # for caching
+Pyro5 # for remote procedure calls (Remote Plugins)
+python-dotenv # for environment variables
+arrow # for time
